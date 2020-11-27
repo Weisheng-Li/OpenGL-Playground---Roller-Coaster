@@ -1,0 +1,36 @@
+newmtl JOBJ_1_DOBJ_0_MOBJ_0
+	Ns 100
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.2 0.2 0.2
+	Ka 0.2 0.2 0.2
+	map_Kd TOBJ_0.png
+
+newmtl JOBJ_1_DOBJ_1_MOBJ_1
+	Ns 25
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.2 0.2 0.2
+	Ka 0.2 0.2 0.2
+	map_Kd TOBJ_0.png
+
+newmtl JOBJ_3_DOBJ_0_MOBJ_0
+	Ns 25
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.2 0.2 0.2
+	Ka 0.2 0.2 0.2
+	map_Kd TOBJ_0.png
+
+newmtl JOBJ_3_DOBJ_1_MOBJ_1
+	Ns 25
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.2 0.2 0.2
+	Ka 0.2 0.2 0.2
+	map_Kd TOBJ_1.png
+
