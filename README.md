@@ -1,5 +1,5 @@
 # OpenGL-Playground: Roller-Coaster
-A roller coaster simulator featuring super wild track.
+A roller coaster simulator featuring super wild track. Check out the video to enjoy the journey
 
 The executable is inside Project_2 folder, double click to start.
 
